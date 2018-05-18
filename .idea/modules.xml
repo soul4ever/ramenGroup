@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ramenGroup.iml" filepath="$PROJECT_DIR$/ramenGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ramenGroup-api/ramenGroup-api.iml" filepath="$PROJECT_DIR$/ramenGroup-api/ramenGroup-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ramenGroup-chat/ramenGroup-chat.iml" filepath="$PROJECT_DIR$/ramenGroup-chat/ramenGroup-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ramenGroup-common/ramenGroup-common.iml" filepath="$PROJECT_DIR$/ramenGroup-common/ramenGroup-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ramenGroup-permission/ramenGroup-permission.iml" filepath="$PROJECT_DIR$/ramenGroup-permission/ramenGroup-permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ramenGroup-web/ramenGroup-web.iml" filepath="$PROJECT_DIR$/ramenGroup-web/ramenGroup-web.iml" />
+    </modules>
+  </component>
+</project>
